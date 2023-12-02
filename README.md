@@ -3,7 +3,7 @@
 
 <p>Me chamo Otávio, tenho 18 anos e estou estudando <strong>muito</strong> para me tornar um desenvolvedor.</p>
 
-<img src="//github-readme-stats.vercel.app/api?username=OtavioMendesSantos&show_icons=true&theme=merko" alt="Git Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=OtavioMendesSantos&show_icons=true&theme=merko" alt="Git Stats">
 
 <p>Atualmente estou estudando desenvolvimento Front-End e Banco de Dados (eu sei, bem destoante 😅), e quero estudar a parte de Back-End, ou seja, pretendo me tornar um dev FullStack.</p>
 
