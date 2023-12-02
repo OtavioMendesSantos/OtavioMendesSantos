@@ -1,5 +1,5 @@
 <style>
-img {
+img.icon {
     margin: 1px;
 }
 </style> 
@@ -15,11 +15,11 @@ img {
 
 <h2>Possuo conhecimento nas seguintes tecnologias:</h2>
 <p>
-    <img src="img/html_icon.png" alt="HTML Icon" style="height: 45px">
-    <img src="img/css_icon.png" alt="CSS Icon" style="height: 45px">
-    <img src="img/javascript_icon.png" alt="JavaScript Icon" style="height: 45px">
-    <img src="img/mysql_icon.png" alt="MySQL Icon" style="height: 45px">
-    <img src="img/sqlserver_icon.png" alt="SQL Server Icon" style="height: 45px">
+    <img src="img/html_icon.png" alt="HTML Icon" class="icon" style="height: 45px">
+    <img src="img/css_icon.png" alt="CSS Icon" class="icon" style="height: 45px">
+    <img src="img/javascript_icon.png" class="icon" alt="JavaScript Icon" style="height: 45px">
+    <img src="img/mysql_icon.png" class="icon" alt="MySQL Icon" style="height: 45px">
+    <img src="img/sqlserver_icon.png" class="icon" alt="SQL Server Icon" style="height: 45px">
     <!-- <img src="img/" alt=" Icon" style="height: 45px"> -->
 </p>
 
