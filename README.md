@@ -1,7 +1,7 @@
 <p><img src="img/wavegif_1860.gif" alt="Emoji Apresentação" style="width: 30px;"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&multiline=true&random=false&width=405&height=30&lines=Ol%C3%A1%2C+seja+bem+vindo+ao+meu+mundo!+" alt="Typing SVG" /></a></p>
 
 
-<p>Me chamo Otávio, tenho 18 anos e estou estudando <strong>muito</strong> para me tornar um desenvolvedor.
+<p>Me chamo Otávio, tenho 18 anos e estou estudando <strong>muito</strong> para me tornar um desenvolvedor.</p>
 
 <img src="//github-readme-stats.vercel.app/api?username=OtavioMendesSantos&show_icons=true&theme=merko" alt="Git Stats">
 
