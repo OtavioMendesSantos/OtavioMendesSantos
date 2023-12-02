@@ -18,5 +18,5 @@
 </p>
 
 <h2>Contatos:</h2>
-<a href="www.linkedin.com/in/otávio-mendes-santos-04b582263"><img src="img/linkedin_badge.svg" target="_blank" alt="Badge linkedin"></a>
-<a href="mailto:otaviomendessantos2019@gmail.com"><img src="img/gmail_badge.svg" target="_blank" alt="Badge linkedin"></a>
+<a href="https://www.linkedin.com/in/otávio-mendes-santos-04b582263" target="_blank" rel="external"><img src="img/linkedin_badge.svg" alt="Badge linkedin" ></a>
+<a href="mailto:otaviomendessantos2019@gmail.com" target="_blank"><img src="img/gmail_badge.svg"  alt="Badge linkedin"></a>
