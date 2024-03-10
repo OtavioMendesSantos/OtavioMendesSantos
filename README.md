@@ -3,9 +3,16 @@
 
 <p>Me chamo Otávio, tenho 18 anos e estou estudando <strong>muito</strong> para me tornar um desenvolvedor.</p>
 
+<p>Atualmente estou focado no desenvolvimento front-end.</p>
+
 <img src="https://github-readme-stats.vercel.app/api?username=OtavioMendesSantos&show_icons=true&theme=merko" alt="Git Stats">
 
-<p>Atualmente estou focado no desenvolvimento front-end.</p>
+<!-- Jogo da Cobrinha -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OtavioMendesSantos/OtavioMendesSantos/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OtavioMendesSantos/OtavioMendesSantos/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/OtavioMendesSantos/OtavioMendesSantos/output/github-contribution-grid-snake.svg">
+</picture>
 
 <h2>Possuo conhecimento nas seguintes tecnologias:</h2>
 <p>
