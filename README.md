@@ -1,10 +1,10 @@
-<p><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&multiline=true&random=false&width=405&height=30&lines=Ol%C3%A1%2C+seja+bem+vindo+ao+meu+mundo!+" alt="Typing SVG" /></a></p>
+<p><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&multiline=true&random=false&width=405&height=30&lines=Ol%C3%A1%2C+seja+bem+vindo+ao+meu+perfil!+" alt="Typing SVG" /></a></p>
 
+<p>Me chamo Otávio, tenho 18 anos e atualmente estou cursando Análise e Desenvolvimento de Sistemas no SENAC.</p>
 
-<p>Me chamo Otávio, tenho 18 anos e estou estudando <strong>muito</strong> para me tornar um desenvolvedor.</p>
+<p>Estou estudando um pouco de tudo, mas estou focado no desenvolvimento front-end.</p>
 
-<p>Atualmente estou focado no desenvolvimento front-end.</p>
-
+<!-- Git Status -->
 <img src="https://github-readme-stats.vercel.app/api?username=OtavioMendesSantos&show_icons=true&theme=merko" alt="Git Stats">
 
 <!-- Jogo da Cobrinha -->
