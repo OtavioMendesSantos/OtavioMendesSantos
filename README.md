@@ -1,6 +1,6 @@
 <p><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&multiline=true&random=false&width=405&height=30&lines=Ol%C3%A1%2C+seja+bem+vindo+ao+meu+perfil!+" alt="Typing SVG" /></a></p>
 
-<p>Me chamo Otávio, tenho 18 anos e atualmente estou cursando Análise e Desenvolvimento de Sistemas no SENAC.</p>
+<p>Me chamo Otávio, tenho 19 anos e atualmente estou cursando Análise e Desenvolvimento de Sistemas no SENAC.</p>
 
 <p>Além disto, estou trabalhando como desenvolvedor Front End, focado em React.js.</p>
 
@@ -16,7 +16,7 @@
 
 <h2>Possuo conhecimento nas tecnologias:</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux,mysql)](https://skillicons.dev)
 
 
 <h2>Contatos:</h2>
