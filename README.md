@@ -1,12 +1,12 @@
 <p><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&multiline=true&random=false&width=405&height=30&lines=Ol%C3%A1%2C+seja+bem+vindo+ao+meu+perfil!+" alt="Typing SVG" /></a></p>
 
-<p>Me chamo Otávio, tenho 19 anos e atualmente estou cursando Análise e Desenvolvimento de Sistemas no SENAC.</p>
-
-<p>Além disto, estou trabalhando como desenvolvedor Front End, focado em React.js.</p>
+<p> Me chamo Otávio, tenho 19 anos, trabalho como desenvolvedor Front End, e estou cursando Análise e Desenvolvimento de Sistemas no SENAC.</p>
 
 <!-- Git Status -->
-<img src="https://github-readme-stats.vercel.app/api?username=OtavioMendesSantos&show_icons=true&theme=merko" alt="Git Stats">
-
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=OtavioMendesSantos&show_icons=true&theme=tokyonight" alt="Git Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OtavioMendesSantos&layout=compact&theme=tokyonight" alt="Git Stats" >
+</div>
 <!-- Jogo da Cobrinha -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OtavioMendesSantos/OtavioMendesSantos/output/github-contribution-grid-snake-dark.svg">
@@ -17,6 +17,7 @@
 <h2>Possuo conhecimento nas tecnologias:</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux,mysql)](https://skillicons.dev)
+
 
 
 <h2>Contatos:</h2>
