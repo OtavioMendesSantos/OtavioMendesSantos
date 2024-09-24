@@ -16,7 +16,7 @@
 
 <h2>Habilidades</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux,mui,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux,mui,sass,mysql)](https://skillicons.dev)
 
 <h2>Contatos</h2>
 <a href="https://www.linkedin.com/in/otávio-mendes-santos-04b582263" target="_blank" target="_blank">
