@@ -1,6 +1,6 @@
 <p><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&multiline=true&random=false&width=405&height=30&lines=Ol%C3%A1%2C+seja+bem+vindo+ao+meu+perfil!+" alt="Typing SVG" /></a></p>
 
-<p> Me chamo Otávio, trabalho como desenvolvedor Front End, e estou cursando Análise e Desenvolvimento de Sistemas no SENAC.</p>
+<p>💻 Desenvolvedor Front End  | 🌱 Análise e Desenvolvimento de Sistemas</p>
 
 <!-- Git Status -->
 <div>
