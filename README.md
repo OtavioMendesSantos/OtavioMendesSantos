@@ -28,3 +28,7 @@
 <a href="https://gitlab.com/OtavioMendesSantos" target="_blank">
   <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"  alt="Badge GitLab">
 </a>
+
+---
+
+[![autocomplete](https://codeium.com/badges/user/covertly-expensive-sauger-74022/autocomplete)](https://codeium.com/profile/covertly-expensive-sauger-74022)
