@@ -1,6 +1,10 @@
 <p><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&multiline=true&random=false&width=405&height=30&lines=Ol%C3%A1%2C+seja+bem+vindo+ao+meu+perfil!+" alt="Typing SVG" /></a></p>
 
-<p>💻 Desenvolvedor Front End  | 🌱 Análise e Desenvolvimento de Sistemas</p>
+<p>
+  💻 Desenvolvedor Front End  <br/>
+  🌱 Análise e Desenvolvimento de Sistemas <br/>
+  🚀 Desenvolvendo o <a href="https://clearkanban.com/" target="_blank">Clear Kanban</a>, meu software de gestão de demandas!
+</p>
 
 <!-- Git Status -->
 <div>
@@ -19,16 +23,13 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,mui,sass,postgres,mysql)](https://skillicons.dev)
 
 <h2>Contatos</h2>
-<a href="https://www.linkedin.com/in/otávio-mendes-santos-04b582263" target="_blank" target="_blank">
+<a href="https://www.linkedin.com/in/otávio-mendes-santos-04b582263" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Badge linkedin">
 </a>
 <a href="mailto:dev.otavioms@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  alt="Badge Gmail">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Badge Gmail">
 </a>
 <a href="https://gitlab.com/OtavioMendesSantos" target="_blank">
-  <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"  alt="Badge GitLab">
+  <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="Badge GitLab">
 </a>
-
----
-
-[![autocomplete](https://codeium.com/badges/user/covertly-expensive-sauger-74022/autocomplete)](https://codeium.com/profile/covertly-expensive-sauger-74022)
+<!--[![autocomplete](https://codeium.com/badges/user/covertly-expensive-sauger-74022/autocomplete)](https://codeium.com/profile/covertly-expensive-sauger-74022)-->
