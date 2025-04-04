@@ -1,26 +1,8 @@
-<p><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&multiline=true&random=false&width=405&height=30&lines=Ol%C3%A1%2C+seja+bem+vindo+ao+meu+perfil!+" alt="Typing SVG" /></a></p>
-
+<h1>Olá! Seja bem vindo ao meu perfil.</h1>
 <p>
   💻 Desenvolvedor Front End  <br/>
   🌱 Análise e Desenvolvimento de Sistemas <br/>
   🚀 Desenvolvendo o <a href="https://clearkanban.com/" target="_blank">Clear Kanban</a>, meu software de gestão de demandas!
-</p>
-
-<!-- Git Status -->
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=OtavioMendesSantos&theme=dark&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" width='580px' />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OtavioMendesSantos&show_icons=true&theme=tokyonight&hide_title=true" alt="Git Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OtavioMendesSantos&layout=compact&theme=tokyonight" alt="Git Stats" >
-</p>
-<!-- Jogo da Cobrinha -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OtavioMendesSantos/OtavioMendesSantos/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OtavioMendesSantos/OtavioMendesSantos/output/github-contribution-grid-snake-dark.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/OtavioMendesSantos/OtavioMendesSantos/output/github-contribution-grid-snake.svg">
-  </picture>
 </p>
 
 <h2>Habilidades</h2>
@@ -37,4 +19,24 @@
 <a href="https://gitlab.com/OtavioMendesSantos" target="_blank">
   <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="Badge GitLab">
 </a>
+
+<h2>Estatísticas</h2>
+<!-- Git Status -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=OtavioMendesSantos&theme=dark&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" width='580px' />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=OtavioMendesSantos&show_icons=true&theme=tokyonight&hide_title=true" alt="Git Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OtavioMendesSantos&layout=compact&theme=tokyonight" alt="Git Stats" >
+</p>
+<!-- Jogo da Cobrinha -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OtavioMendesSantos/OtavioMendesSantos/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OtavioMendesSantos/OtavioMendesSantos/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/OtavioMendesSantos/OtavioMendesSantos/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+
 <!--[![autocomplete](https://codeium.com/badges/user/covertly-expensive-sauger-74022/autocomplete)](https://codeium.com/profile/covertly-expensive-sauger-74022)-->
