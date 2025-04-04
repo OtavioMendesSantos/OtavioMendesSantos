@@ -7,17 +7,21 @@
 </p>
 
 <!-- Git Status -->
-<div>
-  <img src="https://streak-stats.demolab.com?user=OtavioMendesSantos&theme=dark&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api?username=OtavioMendesSantos&show_icons=true&theme=tokyonight" alt="Git Stats">
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=OtavioMendesSantos&theme=dark&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" width='580px' />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=OtavioMendesSantos&show_icons=true&theme=tokyonight&hide_title=true" alt="Git Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OtavioMendesSantos&layout=compact&theme=tokyonight" alt="Git Stats" >
-</div>
+</p>
 <!-- Jogo da Cobrinha -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OtavioMendesSantos/OtavioMendesSantos/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OtavioMendesSantos/OtavioMendesSantos/output/github-contribution-grid-snake-dark.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/OtavioMendesSantos/OtavioMendesSantos/output/github-contribution-grid-snake.svg">
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OtavioMendesSantos/OtavioMendesSantos/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OtavioMendesSantos/OtavioMendesSantos/output/github-contribution-grid-snake-dark.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/OtavioMendesSantos/OtavioMendesSantos/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
 
 <h2>Habilidades</h2>
 
