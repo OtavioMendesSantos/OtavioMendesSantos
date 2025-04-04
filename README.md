@@ -8,6 +8,7 @@
 
 <!-- Git Status -->
 <div>
+  <img src="https://streak-stats.demolab.com?user=OtavioMendesSantos&theme=dark&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api?username=OtavioMendesSantos&show_icons=true&theme=tokyonight" alt="Git Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OtavioMendesSantos&layout=compact&theme=tokyonight" alt="Git Stats" >
 </div>
