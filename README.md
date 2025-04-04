@@ -1,7 +1,7 @@
 <h1>Olá! Seja bem vindo ao meu perfil.</h1>
 <p>
-  💻 Desenvolvedor Front End  <br/>
-  🌱 Análise e Desenvolvimento de Sistemas <br/>
+  💻 Desenvolvedor Full Stack <br/>
+  🌱 Cursando Análise e Desenvolvimento de Sistemas <br/>
   🚀 Desenvolvendo o <a href="https://clearkanban.com/" target="_blank">Clear Kanban</a>, meu software de gestão de demandas!
 </p>
 
