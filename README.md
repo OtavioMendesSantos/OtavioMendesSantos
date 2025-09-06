@@ -27,6 +27,10 @@ Um sistema completo para o gerenciamento em tempo real de atividades e equipes u
 ## [💼Hirely (em construção)](https://github.com/OtavioMendesSantos/Hirely-api)
 Feito para organizar os diversos processos seletivos que enfrentamos, ajudando a organizar informações de candidaturas.
 
+🔗 Repositórios:
+- [Hirely (Front-end)](https://github.com/OtavioMendesSantos/Hirely)
+- [Hirely-api (Back-end)](https://github.com/OtavioMendesSantos/Hirely-api)
+
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
