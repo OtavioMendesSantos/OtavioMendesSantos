@@ -14,7 +14,7 @@ Minhas principais áreas de conhecimento são: **React.js com TypeScript, Node.j
 
 # 🚀 Meus projetos mais relevantes
 
-## [🗂️ Clear Kanban](https://clearkanban.com/)
+## [🗂️ Clear Kanban](https://clearkanban.com.br/)
 Um sistema completo para o gerenciamento em tempo real de atividades e equipes utilizando a metodologia **Kanban**. Projetado para gerenciar demandas de forma eficiente e colaborativa. 
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
