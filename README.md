@@ -1,7 +1,7 @@
 # Opa! Sou o Otávio 👋  
 Comecei a estudar programação em 2022 assistindo aos vídeos do **Gustavo Guanabara** e, desde então, venho me aprofundando cada vez mais.
 
-Atualmente atuo como **desenvolvedor full stack** e curso **Análise e Desenvolvimento de Sistemas** no SENAC.  
+Atualmente atuo como **desenvolvedor full stack** na [Areopagus Io](https://www.linkedin.com/company/areopagusio). Sou formado em **Análise e Desenvolvimento de Sistemas** e estou me especializando com uma pós-graduação em **Data Science e Inteligência Artificial** pelo SENAC.
 
 Sou fascinado por criar sistemas e gosto de participar de todo o processo de desenvolvimento - da **ideia inicial** até a **implementação do banco de dados**.
 
@@ -12,7 +12,7 @@ Minhas principais áreas de conhecimento são: **React.js com TypeScript, Node.j
 [![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/OtavioDev)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://otaviodev.vercel.app)
 
-# 🚀 Meus projetos mais relevantes
+# 🚀 Meu projeto mais relevante
 
 ## [🗂️ Clear Kanban](https://clearkanban.com.br/)
 Um sistema completo para o gerenciamento em tempo real de atividades e equipes utilizando a metodologia **Kanban**. Projetado para gerenciar demandas de forma eficiente e colaborativa. 
@@ -24,6 +24,7 @@ Um sistema completo para o gerenciamento em tempo real de atividades e equipes u
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
+<!--
 ## [💼Hirely (em construção)](https://github.com/OtavioMendesSantos/Hirely-api)
 Feito para organizar os diversos processos seletivos que enfrentamos, ajudando a organizar informações de candidaturas.
 
@@ -35,11 +36,12 @@ Feito para organizar os diversos processos seletivos que enfrentamos, ajudando a
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+-->
 
 # ☕ Fora da vida profissional
 - Atualmente montando meu setup de café expresso
-- Rockeiro de baixa renda (aprendendo a tocar violão)
-- Fascinado por carros velhos (planejando reformar um **Honda Civic 99**)
+- Rockeiro de baixa renda (aprendendo a tocar violão e guitarra)
+- Fascinado por carros ~velhos~ antigos (Reformando um **Honda Civic 99**)
 
 <!-- Jogo da Cobrinha -->
 <p align="center">
