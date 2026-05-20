@@ -24,6 +24,7 @@ Um sistema completo para o gerenciamento em tempo real de atividades e equipes u
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
+
 <!--
 ## [💼Hirely (em construção)](https://github.com/OtavioMendesSantos/Hirely-api)
 Feito para organizar os diversos processos seletivos que enfrentamos, ajudando a organizar informações de candidaturas.
@@ -33,15 +34,15 @@ Feito para organizar os diversos processos seletivos que enfrentamos, ajudando a
 - [Hirely-api (Back-end)](https://github.com/OtavioMendesSantos/Hirely-api)
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 -->
 
 # ☕ Fora da vida profissional
-- Atualmente montando meu setup de café expresso
-- Rockeiro de baixa renda (aprendendo a tocar violão e guitarra)
-- Fascinado por carros ~velhos~ antigos (Reformando um **Honda Civic 99**)
+- Coffee Nerd, atualmente montando meu setup de café expresso
+- Rockeiro de baixa renda (aprendendo a tocar guitarra)
+- Fascinado por carros ~velhos~ antigos
+- Brincando com Linux (CachyOS e Ubuntu) 
 
 <!-- Jogo da Cobrinha -->
 <p align="center">
