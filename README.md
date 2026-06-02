@@ -1,7 +1,7 @@
 # Opa! Sou o Otávio 👋  
 Comecei a estudar programação em 2022 assistindo aos vídeos do **Gustavo Guanabara** e, desde então, venho me aprofundando cada vez mais.
 
-Atualmente atuo como **desenvolvedor full stack** na [Areopagus Io](https://www.linkedin.com/company/areopagusio). Sou formado em **Análise e Desenvolvimento de Sistemas** e estou me especializando com uma pós-graduação em **Data Science e Inteligência Artificial** pelo SENAC.
+Atualmente atuo como **desenvolvedor full stack** freelance. Sou formado em **Análise e Desenvolvimento de Sistemas** e estou me especializando com uma pós-graduação em **Data Science e Inteligência Artificial** pelo SENAC.
 
 Sou fascinado por criar sistemas e gosto de participar de todo o processo de desenvolvimento - da **ideia inicial** até a **implementação do banco de dados**.
 
