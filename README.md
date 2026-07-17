@@ -1,6 +1,6 @@
 # Opa! Sou o Otávio 👋  
 
-Desenvolvedor Full Stack com foco em engenharia de software backend. Iniciei na programação em 2023 e, desde então, venho entregando soluções para startups, fintechs e para clientes como freelancer. 
+Desenvolvedor Full Stack com foco em engenharia de software backend. Iniciei na programação em 2023 e, desde então, venho entregando soluções para startups, fintechs e clientes independentes. 
 
 Sou formado em **Análise e Desenvolvimento de Sistemas** e estou me especializando com uma pós-graduação em **Data Science e Inteligência Artificial** pelo SENAC.
 
@@ -33,16 +33,13 @@ Plataforma para o gerenciamento de equipes e tarefas em tempo real, baseada na m
 ## [💼 Hirely](https://web-hirely.vercel.app/)
 Plataforma para organizar candidaturas de emprego, acompanhando etapas de processos seletivos, entrevistas, propostas e histórico de aplicações.
 
-🔗 Repositórios:
-- [Hirely-web (Front-end)](https://github.com/OtavioMendesSantos/Hirely-web)
-- [Hirely-api (Back-end)](https://github.com/OtavioMendesSantos/Hirely-api)
-
 ![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Spartan](https://img.shields.io/badge/Spartan-0F172A?style=for-the-badge&logo=angular&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
+> Repositórios: [Hirely-web](https://github.com/OtavioMendesSantos/Hirely-web), [Hirely-api](https://github.com/OtavioMendesSantos/Hirely-api)
 
 # ☕ Fora da vida profissional
 - Coffee Nerd, atualmente montando meu setup de café expresso
