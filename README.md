@@ -1,9 +1,12 @@
 # Opa! Sou o Otávio 👋  
-Comecei a estudar programação em 2022 assistindo aos vídeos do **Gustavo Guanabara** e, desde então, venho me aprofundando cada vez mais.
 
-Atualmente atuo como **desenvolvedor full stack** freelance. Sou formado em **Análise e Desenvolvimento de Sistemas** e estou me especializando com uma pós-graduação em **Data Science e Inteligência Artificial** pelo SENAC.
+Desenvolvedor Full Stack com foco em engenharia de software backend. Iniciei na programação em 2023 e, desde então, venho entregando soluções para startups, fintechs e para clientes como freelancer. 
 
-Sou fascinado por criar sistemas e gosto de participar de todo o processo de desenvolvimento - da **ideia inicial** até a **implementação do banco de dados**.
+Sou formado em **Análise e Desenvolvimento de Sistemas** e estou me especializando com uma pós-graduação em **Data Science e Inteligência Artificial** pelo SENAC.
+
+Minha experiência abrange o ciclo de desenvolvimento de ponta a ponta, incluindo: estruturar interfaces web e mobile, desenvolver serviços escaláveis, integrar APIs externas, modelar bancos de dados e aplicar práticas de DevOps. Atualmente, concentro meu desenvolvimento e aprimoramento técnico na construção de serviços backend com **Go**.
+
+Sou fascinado por criar sistemas e gosto de participar de todo o processo de desenvolvimento - da **ideia inicial** até o **deploy em produção**.
 
 Minhas principais áreas de conhecimento são: **React.js com TypeScript, Node.js e PostgreSQL**.
 
@@ -15,7 +18,7 @@ Minhas principais áreas de conhecimento são: **React.js com TypeScript, Node.j
 # 🚀 Meus projetos mais relevantes
 
 ## [🗂️ Clear Kanban](https://clearkanban.com.br/)
-Um sistema completo para o gerenciamento em tempo real de atividades e equipes utilizando a metodologia **Kanban**. Projetado para gerenciar demandas de forma eficiente e colaborativa. 
+Plataforma para o gerenciamento de equipes e tarefas em tempo real, baseada na metodologia **Kanban**, com autenticação, controle de usuários e de tarefas, projetado para gerenciar demandas de forma eficiente e colaborativa. 
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
@@ -28,7 +31,7 @@ Um sistema completo para o gerenciamento em tempo real de atividades e equipes u
 
 
 ## [💼 Hirely](https://web-hirely.vercel.app/)
-Feito para organizar os diversos processos seletivos para vagas de emprego, ajudando a organizar informações de candidaturas.
+Plataforma para organizar candidaturas de emprego, acompanhando etapas de processos seletivos, entrevistas, propostas e histórico de aplicações.
 
 🔗 Repositórios:
 - [Hirely-web (Front-end)](https://github.com/OtavioMendesSantos/Hirely-web)
