@@ -12,31 +12,34 @@ Minhas principais áreas de conhecimento são: **React.js com TypeScript, Node.j
 [![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/OtavioDev)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://otavio.is-a.dev)
 
-# 🚀 Meu projeto mais relevante
+# 🚀 Meus projetos mais relevantes
 
 ## [🗂️ Clear Kanban](https://clearkanban.com.br/)
 Um sistema completo para o gerenciamento em tempo real de atividades e equipes utilizando a metodologia **Kanban**. Projetado para gerenciar demandas de forma eficiente e colaborativa. 
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Nest](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
-<!--
-## [💼Hirely (em construção)](https://github.com/OtavioMendesSantos/Hirely-api)
-Feito para organizar os diversos processos seletivos que enfrentamos, ajudando a organizar informações de candidaturas.
+## [💼 Hirely](https://web-hirely.vercel.app/)
+Feito para organizar os diversos processos seletivos para vagas de emprego, ajudando a organizar informações de candidaturas.
 
 🔗 Repositórios:
-- [Hirely (Front-end)](https://github.com/OtavioMendesSantos/Hirely)
+- [Hirely-web (Front-end)](https://github.com/OtavioMendesSantos/Hirely-web)
 - [Hirely-api (Back-end)](https://github.com/OtavioMendesSantos/Hirely-api)
 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
--->
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Spartan](https://img.shields.io/badge/Spartan-0F172A?style=for-the-badge&logo=angular&logoColor=white)
+![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
 
 # ☕ Fora da vida profissional
 - Coffee Nerd, atualmente montando meu setup de café expresso
