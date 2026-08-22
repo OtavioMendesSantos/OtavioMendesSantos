@@ -34,6 +34,7 @@ Plataforma para o gerenciamento de equipes e tarefas em tempo real, baseada na m
 Plataforma para organizar candidaturas de emprego, acompanhando etapas de processos seletivos, entrevistas, propostas e histórico de aplicações.
 
 ![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Go Gin](https://img.shields.io/badge/Go_gin-008ECF?style=for-the-badge&logo=gin&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Spartan](https://img.shields.io/badge/Spartan-0F172A?style=for-the-badge&logo=angular&logoColor=white)
